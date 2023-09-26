@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\bin\Debug\net7.0\ExercicioFixacao_EntradaDeDados.exe
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\bin\Debug\net7.0\ExercicioFixacao_EntradaDeDados.deps.json
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\bin\Debug\net7.0\ExercicioFixacao_EntradaDeDados.runtimeconfig.json
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\bin\Debug\net7.0\ExercicioFixacao_EntradaDeDados.dll
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\bin\Debug\net7.0\ExercicioFixacao_EntradaDeDados.pdb
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\ExercicioFixacao_EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\ExercicioFixacao_EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\ExercicioFixacao_EntradaDeDados.AssemblyInfo.cs
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\ExercicioFixacao_EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\ExercicioFixacao_EntradaDeDados.dll
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\refint\ExercicioFixacao_EntradaDeDados.dll
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\ExercicioFixacao_EntradaDeDados.pdb
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\ExercicioFixacao_EntradaDeDados.genruntimeconfig.cache
+C:\Users\vascz\C#\ExercicioFixacao_EntradaDeDados\ExercicioFixacao_EntradaDeDados\obj\Debug\net7.0\ref\ExercicioFixacao_EntradaDeDados.dll
