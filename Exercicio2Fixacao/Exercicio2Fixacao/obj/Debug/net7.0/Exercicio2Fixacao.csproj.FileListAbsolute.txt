@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\bin\Debug\net7.0\Exercicio2Fixacao.exe
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\bin\Debug\net7.0\Exercicio2Fixacao.deps.json
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\bin\Debug\net7.0\Exercicio2Fixacao.runtimeconfig.json
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\bin\Debug\net7.0\Exercicio2Fixacao.dll
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\bin\Debug\net7.0\Exercicio2Fixacao.pdb
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\Exercicio2Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\Exercicio2Fixacao.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\Exercicio2Fixacao.AssemblyInfo.cs
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\Exercicio2Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\Exercicio2Fixacao.dll
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\refint\Exercicio2Fixacao.dll
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\Exercicio2Fixacao.pdb
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\Exercicio2Fixacao.genruntimeconfig.cache
+C:\Users\vascz\C#\Exercicio2Fixacao\Exercicio2Fixacao\obj\Debug\net7.0\ref\Exercicio2Fixacao.dll
