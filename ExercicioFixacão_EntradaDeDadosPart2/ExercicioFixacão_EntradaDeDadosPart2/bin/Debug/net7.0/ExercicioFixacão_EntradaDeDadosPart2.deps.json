@@ -1,0 +1,23 @@
+pro{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExercicioFixacão_EntradaDeDadosPart2/1.0.0": {
+        "runtime": {
+          "ExercicioFixacão_EntradaDeDadosPart2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioFixacão_EntradaDeDadosPart2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

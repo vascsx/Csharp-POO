@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.AssemblyInfo.cs
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\bin\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.exe
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\bin\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.deps.json
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\bin\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.runtimeconfig.json
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\bin\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.dll
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\bin\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.pdb
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.dll
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\refint\ExercicioFixacão_EntradaDeDadosPart2.dll
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.pdb
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\ExercicioFixacão_EntradaDeDadosPart2.genruntimeconfig.cache
+C:\Users\vascz\C#\ExercicioFixacão_EntradaDeDadosPart2\ExercicioFixacão_EntradaDeDadosPart2\obj\Debug\net7.0\ref\ExercicioFixacão_EntradaDeDadosPart2.dll
