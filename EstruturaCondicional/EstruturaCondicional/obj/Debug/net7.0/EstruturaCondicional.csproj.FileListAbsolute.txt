@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.exe
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.deps.json
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.runtimeconfig.json
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.dll
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.pdb
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.dll
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\refint\EstruturaCondicional.dll
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.pdb
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.genruntimeconfig.cache
+C:\Users\vascz\C#\EstruturaCondicional\EstruturaCondicional\obj\Debug\net7.0\ref\EstruturaCondicional.dll
