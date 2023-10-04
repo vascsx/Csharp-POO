@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\bin\Debug\net7.0\triangulo_exercicio.exe
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\bin\Debug\net7.0\triangulo_exercicio.deps.json
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\bin\Debug\net7.0\triangulo_exercicio.runtimeconfig.json
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\bin\Debug\net7.0\triangulo_exercicio.dll
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\bin\Debug\net7.0\triangulo_exercicio.pdb
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\triangulo_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\triangulo_exercicio.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\triangulo_exercicio.AssemblyInfo.cs
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\triangulo_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\triangulo_exercicio.dll
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\refint\triangulo_exercicio.dll
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\triangulo_exercicio.pdb
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\triangulo_exercicio.genruntimeconfig.cache
+C:\Users\vascz\C#\triangulo_exercicio\triangulo_exercicio\obj\Debug\net7.0\ref\triangulo_exercicio.dll
