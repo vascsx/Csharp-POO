@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\Idade_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\Idade_POO.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\Idade_POO.AssemblyInfo.cs
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\Idade_POO.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\Idade_POO\Idade_POO\bin\Debug\net7.0\Idade_POO.exe
+C:\Users\vascz\C#\Idade_POO\Idade_POO\bin\Debug\net7.0\Idade_POO.deps.json
+C:\Users\vascz\C#\Idade_POO\Idade_POO\bin\Debug\net7.0\Idade_POO.runtimeconfig.json
+C:\Users\vascz\C#\Idade_POO\Idade_POO\bin\Debug\net7.0\Idade_POO.dll
+C:\Users\vascz\C#\Idade_POO\Idade_POO\bin\Debug\net7.0\Idade_POO.pdb
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\Idade_POO.dll
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\refint\Idade_POO.dll
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\Idade_POO.pdb
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\Idade_POO.genruntimeconfig.cache
+C:\Users\vascz\C#\Idade_POO\Idade_POO\obj\Debug\net7.0\ref\Idade_POO.dll
