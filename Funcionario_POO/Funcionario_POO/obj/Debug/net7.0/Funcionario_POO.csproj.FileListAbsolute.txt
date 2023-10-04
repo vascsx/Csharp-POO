@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\Funcionario_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\Funcionario_POO.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\Funcionario_POO.AssemblyInfo.cs
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\Funcionario_POO.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\bin\Debug\net7.0\Funcionario_POO.exe
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\bin\Debug\net7.0\Funcionario_POO.deps.json
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\bin\Debug\net7.0\Funcionario_POO.runtimeconfig.json
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\bin\Debug\net7.0\Funcionario_POO.dll
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\bin\Debug\net7.0\Funcionario_POO.pdb
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\Funcionario_POO.dll
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\refint\Funcionario_POO.dll
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\Funcionario_POO.pdb
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\Funcionario_POO.genruntimeconfig.cache
+C:\Users\vascz\C#\Funcionario_POO\Funcionario_POO\obj\Debug\net7.0\ref\Funcionario_POO.dll
