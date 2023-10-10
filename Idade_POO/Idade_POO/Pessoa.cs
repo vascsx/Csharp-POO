@@ -8,10 +8,8 @@ namespace Idade_POO
 {
     class Pessoa
     {
-        public string A;
-        public string B;
-        public int C;
-        public int D;
+       public string name;
+       public int idade;
     }
 
 }

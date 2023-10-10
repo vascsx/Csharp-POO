@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.AssemblyInfo.cs
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.exe
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.deps.json
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.runtimeconfig.json
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.dll
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.pdb
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.dll
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\refint\Mercadinho_Exercicio.dll
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.pdb
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.genruntimeconfig.cache
+C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\ref\Mercadinho_Exercicio.dll

@@ -4,33 +4,33 @@
     {
         static void Main(string[] args)
         {
-            Pessoa x, y,z,h;
-            x = new Pessoa();
-            y = new Pessoa();
+            
+            Pessoa n1 = new Pessoa();
+            Pessoa n2 = new Pessoa();
 
             Console.Write("Digite o nome da primeira pessoa: ");
-            x.A = Console.ReadLine();
+            n1.name = Console.ReadLine();
             Console.Write("Digite o idade da primeira pessoa: ");
-            y.C = int.Parse(Console.ReadLine());
+            n1.idade = int.Parse(Console.ReadLine());
             Console.Write("Digite o nome da segunda pessoa: ");
-            x.B = Console.ReadLine();
+            n2.name= Console.ReadLine();
             Console.Write("Digite o idade da segunda pessoa: ");
-            y.D = int.Parse(Console.ReadLine());
+            n2.idade = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Dados da primeira pessoa: ");
-            Console.WriteLine("Nome: " + x.A);
-            Console.WriteLine("Idade: " + y.C);
+            Console.WriteLine("Nome: " + n1.name);
+            Console.WriteLine("Idade: " + n1.idade);
             Console.WriteLine("Dados da segunda pessoa: ");
-            Console.WriteLine("Nome: " + x.B);
-            Console.WriteLine("Idade: " + y.D);
+            Console.WriteLine("Nome: " + n2.name);
+            Console.WriteLine("Idade: " + n2.idade);
 
-            if (y.C > y.D)
+            if (n1.idade > n2.idade)
             {
-                Console.WriteLine("Pessoa mais velha: " + x.A);
+                Console.WriteLine("Pessoa mais velha: " + n1.name);
             }
             else
             {
-                Console.WriteLine("Pessoa mais velha: " + x.B);
+                Console.WriteLine("Pessoa mais velha: " + n2.name);
 
             }
         }
