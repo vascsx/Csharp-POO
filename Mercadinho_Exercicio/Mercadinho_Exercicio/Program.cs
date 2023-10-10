@@ -16,6 +16,6 @@ class Program
         p.Quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
         
         
-        Console.WriteLine("Dados do produto: " + );
+        Console.WriteLine("Dados do produto: " + p);
     }   
 }
