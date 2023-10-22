@@ -14,8 +14,24 @@ class Program
         p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
         Console.WriteLine("Quantidade no estoque: ");
         p.Quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-        
-        
+
+        Console.WriteLine();
         Console.WriteLine("Dados do produto: " + p);
-    }   
+
+        Console.WriteLine();
+        Console.Write("Digite o numero de produtos a ser adicionado ao estoque: ");
+        int qtde = int.Parse(Console.ReadLine());
+        p.AdicionarProdutos(qtde);
+
+
+        Console.WriteLine();
+        Console.Write("Digite o numero de produtos a ser removidos ao estoque: ");
+        qtde = int.Parse(Console.ReadLine());
+        p.RemoverProdutos(qtde);
+
+
+        Console.WriteLine() ;
+        Console.WriteLine("Dados atualizados: " + p) ;
+
+    }
 }
