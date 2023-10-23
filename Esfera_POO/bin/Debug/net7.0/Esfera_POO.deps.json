@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Esfera_POO/1.0.0": {
+        "runtime": {
+          "Esfera_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esfera_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

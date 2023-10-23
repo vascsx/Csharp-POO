@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\Esfera_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\Esfera_POO.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\Esfera_POO.AssemblyInfo.cs
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\Esfera_POO.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\Esfera_POO\bin\Debug\net7.0\Esfera_POO.exe
+C:\Users\vascz\C#\Esfera_POO\bin\Debug\net7.0\Esfera_POO.deps.json
+C:\Users\vascz\C#\Esfera_POO\bin\Debug\net7.0\Esfera_POO.runtimeconfig.json
+C:\Users\vascz\C#\Esfera_POO\bin\Debug\net7.0\Esfera_POO.dll
+C:\Users\vascz\C#\Esfera_POO\bin\Debug\net7.0\Esfera_POO.pdb
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\Esfera_POO.dll
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\refint\Esfera_POO.dll
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\Esfera_POO.pdb
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\Esfera_POO.genruntimeconfig.cache
+C:\Users\vascz\C#\Esfera_POO\obj\Debug\net7.0\ref\Esfera_POO.dll
