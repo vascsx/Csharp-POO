@@ -1,0 +1,14 @@
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\TrianguloEx_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\TrianguloEx_poo.AssemblyInfoInputs.cache
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\TrianguloEx_poo.AssemblyInfo.cs
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\TrianguloEx_poo.csproj.CoreCompileInputs.cache
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\bin\Debug\net7.0\TrianguloEx_poo.exe
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\bin\Debug\net7.0\TrianguloEx_poo.deps.json
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\bin\Debug\net7.0\TrianguloEx_poo.runtimeconfig.json
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\bin\Debug\net7.0\TrianguloEx_poo.dll
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\bin\Debug\net7.0\TrianguloEx_poo.pdb
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\TrianguloEx_poo.dll
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\refint\TrianguloEx_poo.dll
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\TrianguloEx_poo.pdb
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\TrianguloEx_poo.genruntimeconfig.cache
+C:\Users\vascz\source\repos\TrianguloEx_poo\TrianguloEx_poo\obj\Debug\net7.0\ref\TrianguloEx_poo.dll
