@@ -1,0 +1,14 @@
+C:\Users\vascz\C#\nota_POO\bin\Debug\net7.0\nota_POO.exe
+C:\Users\vascz\C#\nota_POO\bin\Debug\net7.0\nota_POO.deps.json
+C:\Users\vascz\C#\nota_POO\bin\Debug\net7.0\nota_POO.runtimeconfig.json
+C:\Users\vascz\C#\nota_POO\bin\Debug\net7.0\nota_POO.dll
+C:\Users\vascz\C#\nota_POO\bin\Debug\net7.0\nota_POO.pdb
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\nota_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\nota_POO.AssemblyInfoInputs.cache
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\nota_POO.AssemblyInfo.cs
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\nota_POO.csproj.CoreCompileInputs.cache
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\nota_POO.dll
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\refint\nota_POO.dll
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\nota_POO.pdb
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\nota_POO.genruntimeconfig.cache
+C:\Users\vascz\C#\nota_POO\obj\Debug\net7.0\ref\nota_POO.dll
