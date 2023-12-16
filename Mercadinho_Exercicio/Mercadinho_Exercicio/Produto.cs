@@ -13,19 +13,17 @@ namespace Mercadinho_Exercicio
         public double Preco;
         public int Quantidade;
 
-        public Produto(string nome, double preco, int quantidade)
-        {
+
+        public Produto() { 
+            Quantidade = 10;
+        }
+        public Produto(string nome, double preco) : this() {
             Nome = nome;
             Preco = preco;
-            Quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco)
-        {
-            Nome = nome;
-            Preco = preco; 
-            Quantidade = 10; // caso não preferir não precisava atribuir o valor 0, porque já é setado,
-                            // porém caso queira outros valores tem que setar
+        public Produto (string nome, double preco, int quantidade) : this(nome,preco){
+            Quantidade = quantidade;
         }
 
         public double ValorTotalEstoque()
