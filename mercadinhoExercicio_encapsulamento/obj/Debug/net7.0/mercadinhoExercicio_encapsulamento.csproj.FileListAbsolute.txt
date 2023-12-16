@@ -1,0 +1,14 @@
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\mercadinhoExercicio_encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\mercadinhoExercicio_encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\mercadinhoExercicio_encapsulamento.AssemblyInfo.cs
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\mercadinhoExercicio_encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\bin\Debug\net7.0\mercadinhoExercicio_encapsulamento.exe
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\bin\Debug\net7.0\mercadinhoExercicio_encapsulamento.deps.json
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\bin\Debug\net7.0\mercadinhoExercicio_encapsulamento.runtimeconfig.json
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\bin\Debug\net7.0\mercadinhoExercicio_encapsulamento.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\bin\Debug\net7.0\mercadinhoExercicio_encapsulamento.pdb
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\mercadinhoExercicio_encapsulamento.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\refint\mercadinhoExercicio_encapsulamento.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\mercadinhoExercicio_encapsulamento.pdb
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\mercadinhoExercicio_encapsulamento.genruntimeconfig.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\mercadinhoExercicio_encapsulamento\obj\Debug\net7.0\ref\mercadinhoExercicio_encapsulamento.dll
