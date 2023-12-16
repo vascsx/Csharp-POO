@@ -1,0 +1,14 @@
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\bin\Debug\net7.0\DesafioPOO - Conta Bancaria.exe
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\bin\Debug\net7.0\DesafioPOO - Conta Bancaria.deps.json
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\bin\Debug\net7.0\DesafioPOO - Conta Bancaria.runtimeconfig.json
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\bin\Debug\net7.0\DesafioPOO - Conta Bancaria.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\bin\Debug\net7.0\DesafioPOO - Conta Bancaria.pdb
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\DesafioPOO - Conta Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\DesafioPOO - Conta Bancaria.AssemblyInfoInputs.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\DesafioPOO - Conta Bancaria.AssemblyInfo.cs
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\DesafioPOO - Conta Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\DesafioPOO - Conta Bancaria.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\refint\DesafioPOO - Conta Bancaria.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\DesafioPOO - Conta Bancaria.pdb
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\DesafioPOO - Conta Bancaria.genruntimeconfig.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\DesafioPOO - Conta Bancaria\obj\Debug\net7.0\ref\DesafioPOO - Conta Bancaria.dll
