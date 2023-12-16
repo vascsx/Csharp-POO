@@ -8,10 +8,10 @@ namespace Course
         static void Main(string[] args)
         {
             Produto p = new Produto("TV", 500.00, 20);
-            p.SetNome("Vasc Programador .NET MAUI");
-            Console.WriteLine(p.GetNome());
-            Console.WriteLine(p.GetPreco());
-            Console.WriteLine(p.GetQuantidade());
+            p.Nome = "TV OLED 4k";
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
+            Console.WriteLine(p.Quantidade);
         }
     }
 }
