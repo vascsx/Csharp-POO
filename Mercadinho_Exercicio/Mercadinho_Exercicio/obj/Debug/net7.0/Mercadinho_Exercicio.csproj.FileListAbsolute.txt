@@ -12,3 +12,17 @@ C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\ref
 C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.pdb
 C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.genruntimeconfig.cache
 C:\Users\vascz\C#\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\ref\Mercadinho_Exercicio.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.AssemblyInfo.cs
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\refint\Mercadinho_Exercicio.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.pdb
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.exe
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.deps.json
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.runtimeconfig.json
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.dll
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\bin\Debug\net7.0\Mercadinho_Exercicio.pdb
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\Mercadinho_Exercicio.genruntimeconfig.cache
+C:\Users\Anderson Vasconcelos\Desktop\Csharp-POO\Mercadinho_Exercicio\Mercadinho_Exercicio\obj\Debug\net7.0\ref\Mercadinho_Exercicio.dll
